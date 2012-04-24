@@ -35,6 +35,8 @@ Cuba.define do
     <p>Go to <em>http://canonical-repo.herokuapp.com/:gem_name</em> to look up
       the gem's canonical repository.</p>
 
+    <p>Read more about this at <a href="http://github.com/cubox/canonical-repo">http://github.com/cubox/canonical-repo</a>.</p>
+
     <p>Built with <3 by <a href="http://cuboxlabs.com">Cubox</a>.</p>
   </body>
 </html>
